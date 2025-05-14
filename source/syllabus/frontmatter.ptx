@@ -4,17 +4,29 @@
 <!-- works. -->
 
 <frontmatter xmlns:xi="http://www.w3.org/2001/XInclude" xml:id="frontmatter">
-  <bibinfo>
+  <!--bibinfo>
     <author>
-      <personname>Mitchel T. Keller</personname>
-      <department>Department of Mathematics</department>
-      <institution>University of Wisconsin<ndash />Madison</institution>
+      <personname>Susan Batemen</personname>
+    </author>
+    <author>
+      <personname>Chad Gratton</personname>
+    </author>
+    <author>
+      <personname>Raymond Jones</personname>
+    </author>
+    <author>
+      <personname>Adam Towsley</personname>
+    </author>
+    <author>
+      <personname>Olga Tsukernik</personname>
+      <department>School of Mathematics and Statistics</department>
+      <institution>Rochester Institute of Technology</institution>
     </author>
     <date>
       Last Updated: <today />
     </date>
 
-  </bibinfo>
+  </bibinfo-->
 
   <titlepage>
     <titlepage-items/>
