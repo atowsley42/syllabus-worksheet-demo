@@ -16,7 +16,7 @@
         <p>
           <ul>
             <li>
-              <p>Susan Batemen</p>
+              <p>Susan Bateman</p>
             </li>
             <li>
               <p>Chad Gratton</p>
@@ -28,7 +28,7 @@
               <p>Adam Towsley</p>
             </li>
             <li>
-              <p>Olga Tsukernik</p>
+              <p>Nigar Tuncer</p>
             </li>
           </ul>
         </p>
@@ -37,18 +37,11 @@
     <paragraphs>
       <title>Course Description</title>
         <p>
-          This is the first in a two-course sequence intended 
-          for students majoring in mathematics,
-          science, or engineering. 
-          The course includes the same topics as MATH-181, but the
-          focus of the workshop component is different. 
-          Whereas workshops attached to 181 emphasize concept development 
-          and real-world applications, the workshops of MATH-181A 
-          emphasize skill development and provide 
-          just-in-time review of precalculus material as needed. 
-          The course covers functions, limits, continuity, the derivative, rules
-          of differentiation, applications of the derivative, 
-          Riemann sums, definite integrals, and indefinite integrals.
+          This is the first course in a two-course sequence intended for students majoring in mathematics, 
+          science or engineering. It emphasizes the understanding of concepts, 
+          and using them to solve physical problems. The course covers functions, limits, continuity, 
+          the derivative, rules of differentiation, applications of the derivative, Riemann sums, 
+          definite integrals, and indefinite integrals.
       </p>
     </paragraphs>
     <!-- Include chapters -->
@@ -63,9 +56,9 @@
             </p>
           </li>
           <li>
-            <title>TBD</title>
+            <title>Office Hours:</title>
             <p>
-              Other things
+              Please see mycourses for up to date office hours. You are welcome to attend any office hours listed, even those offered by professors other than yours. 
             </p>
           </li>
                     <li>
@@ -81,9 +74,33 @@
         <p>
           <dl>
             <li>
-              <title>Section 24</title>
+              <title>Section 5</title>
               <p>
-                TTr 8:00AM<ndash/>9:50AM in ROS-A310
+                MW 4:00PM<ndash/>5:50PM in GOS-1250
+              </p>
+            </li>
+            <li>
+              <title>Section 9</title>
+              <p>
+                MW 2:00PM<ndash/>3:50PM in GOS-1305
+              </p>
+            </li>
+            <li>
+              <title>Section 13</title>
+              <p>
+                MW 2:00PM<ndash/>3:50PM in WAL-3560
+              </p>
+            </li>
+            <li>
+              <title>Section 14</title>
+              <p>
+                MW 8:00AM<ndash/>9:50AM in GOS-2130
+              </p>
+            </li>
+            <li>
+              <title>Section 15</title>
+              <p>
+                TTr 8:00AM<ndash/>9:50AM in GOS-2300
               </p>
             </li>
             <li>
@@ -98,27 +115,23 @@
                 TTr 2:00PM<ndash/>3:50PM in GOS-2365
               </p>
             </li>
-          </dl>>
+            <li>
+              <title>Section 21</title>
+              <p>
+                MW 12:00PM<ndash/>2:50PM in CAR-1155
+              </p>
+            </li>
+            <li>
+              <title>Section 24</title>
+              <p>
+                TTr 8:00AM<ndash/>9:50AM in ROS-A310
+              </p>
+            </li>
+          </dl>
         </p>
       </paragraphs>
     </section>
-    <section xml:id="sec-LAs" xmlns:xi="http://www.w3.org/2001/XInclude">
-      <title>Learning assistants</title>
-      <dl>
-        <li>
-          <title>Bob</title>
-          <p>
-            Section 16
-          </p>
-        </li>
-        <li>
-          <title>Alice</title>    
-          <p>
-            Section 24
-          </p>
-        </li>
-      </dl>
-    </section>
+  
   <section xml:id="sec-materials">
     <title>Textbook and Other Required Materials</title>
     <p>
@@ -126,19 +139,35 @@
         <li>
           <title>Textbook</title>
           <p>
-            Stewart, Calculus, ET, 8e.
+            Stewart, Calculus, ET, 9e.
           </p>
+          <ul>
+            <li>
+              <p>
+                You will need to purchase the book through cengage so that you have access to webassign.
+              </p>
+            </li>
+            <li>
+              <p>
+                You are expected to read the assigned section(s) from the text before each class meeting. Do not
+expect to understand the reading completely; your goal is to become aware of the ideas and vocabulary
+presented. What problems and processes are introduced? What questions are answered? You should
+then read a second time while working on the homework problems and a third time while studying for
+the quiz or test.
+              </p>
+            </li>
+          </ul>
         </li>
         <li>
-          <title>WeBWorK</title>
+          <title>WebAssign</title>
           <p>
-            Homework will be given through <url href="https://webwork.rit.edu/webwork2">WeBWorK</url>. 
+            Homework and topic quizzes will be given through <url href="https://www.webassign.net/">WebAssign</url>. 
           </p>
         </li>
         <li>
           <title>Gradescope</title>
           <p>
-            Any written work will be graded and returned using gradescope.
+            Any written work will be graded and returned using <url href="https://www.gradescope.com/">gradescope</url>.
           </p>
         </li>
       </dl>
@@ -163,15 +192,19 @@
         <cell>45%</cell>
       </row>
       <row>
-        <cell>Quizzes</cell>
+        <cell>Quizzes (in class)</cell>
         <cell>10%</cell>
       </row>
       <row>
-        <cell>WeBWorK</cell>
-        <cell>10%</cell>
+        <cell>Homework</cell>
+        <cell>5%</cell>
       </row>
       <row>
-        <cell>Workshops</cell>
+        <cell>Class work</cell>
+        <cell>5%</cell>
+      </row>
+            <row>
+        <cell>Topic quizzes</cell>
         <cell>10%</cell>
       </row>
     </tabular>
@@ -228,150 +261,63 @@
     </tabular>
   </section>
   <section xml:id="sec-assessments">
-    <title>Assessments</title>
+    <title>Assessments</title>    
+
     <paragraphs>
-      <title>Exams</title>
+      <title>Midterm exams</title>
       <p>
-        Text about exams -- including probably dates and topics
+        Each of the preliminary exams will cover approximately 4 weeks of course content. While the preliminary
+exams are not cumulative, you should understand that every math exam you have ever taken builds upon
+previous material. These exams are no exception. See the course schedule (below) for exam dates and topics.
       </p>
+    </paragraphs>
+    <paragraphs>
+      <title>Final exam</title>
+      <p>
+        The final exam IS cumulative, though with an emphasis on the material which has been covered since the
+last preliminary exam. The final exam has a 2.5 hour time block. The first hour will be composed of 20<ndash/>25
+multiple choice questions (see topics below), these Common Core questions are the same across all section
+of 181. The remaining 1.5 hours of the exam will be spent on questions specific to this section of Math 181.
+      </p>
+    </paragraphs>
+    
+    <paragraphs>
+      <title>Note about exams</title>
       <p>
         During exams, students will not be allowed to use any notes or electronic devices. Ample space will be provided on the exams for you to show your work. You must bring a writing utensil.
+      </p>
+    </paragraphs>
+
+    <paragraphs>      
+      <title>WebAssign</title>
+      <p>
+        Homework will be given through WebAssign and will be due every Tuesday night at midnight. 
+        Each week's assignemnt will cover the sections completed during the previous week of class. 
+        If necessary you may extend the due date for each assignment by up to three days, at a 50% penalty.  
       </p>
     </paragraphs>
     <paragraphs>
       <title>Quizzes</title>
       <p>
-        Text about quizzes
+        In the section class each week there will be a written quiz (with the exeption of the weeks we have exams). 
+        These quizzes will cover the material on the homework that was due that week. <alert>No makeup quizzes will be offered.</alert> 
       </p>
     </paragraphs>
     <paragraphs>
-      <title>Written Homework</title>
+      <title> Class work</title>
       <p>
-        Text about written homework
+        During each class there will be several simple multiple choice problems covering that days material.
+        The questions will be provided in class and the students will submit their answers via gradescope. 
       </p>
     </paragraphs>
-    <paragraphs>      
-      <title>WeBWorK</title>
+        <paragraphs>
+    <title>Topic quizzes</title>
       <p>
-        Text about WeBWorK
+        There are 14 "topic quizzes" that you must take during the semester. 
+        We will let you know when you are prepared for each quiz. 
+        The quizzes are due by the last day of class, but we suggest doing them at the recommended pace of 1 per week. 
       </p>
     </paragraphs>
-    <paragraphs>
-      <title>Workshops</title>
-      <p>
-        Text about workshops
-      </p>
-    </paragraphs>
-  </section>
-  
-  <section xml:id="sec-schedule">
-    <title>Tentative Schedule of Topics</title>
-    <p>
-      <dl>
-        <li>
-          <title>Week 1</title>
-          <p>
-            Review
-          </p>
-        </li>
-        <li>
-          <title>Week 2</title>
-          <p>
-            Limits
-          </p>
-        </li>
-        <li>
-          <title>Week 3</title>
-          <p>
-            More limits
-          </p>
-        </li>        
-        <li>
-          <title>Week 4</title>
-          <p>
-            Continuity
-          </p>
-        </li>        
-        <li>
-          <title>Week 5</title>
-          <p>
-            I can't remember how long things will take
-          </p>
-        </li>        
-        <li>
-          <title>Week 6</title>
-          <p>
-            maybe we're doing derivatives?
-          </p>
-        </li>        
-        <li>
-          <title>Week 7</title>
-          <p>
-            Power rule?
-          </p>
-        </li>        
-        <li>
-          <title>Week 8</title>
-          <p>
-            other rules?
-          </p>
-        </li>        
-        <li>
-          <title>Week 9</title>
-          <p>
-            Related rates?
-          </p>
-        </li>      
-        <li>
-          <title>Week 10</title>
-          <p>
-            optimization?
-          </p>
-        </li>        
-        <li>
-          <title>Week 11</title>
-          <p>
-            Are we starting Riemann sums yet?
-          </p>
-        </li>        
-        <li>
-          <title>Week 12</title>
-          <p>
-            more Riemann sums?
-          </p>
-        </li>        
-        <li>
-          <title>Week 13</title>
-          <p>
-            Power rule for integrals
-          </p>
-        </li>        
-        <li>
-          <title>Week 14</title>
-          <p>
-            u-sub?
-          </p>
-        </li>        
-        <li>
-          <title>Final Exam</title>
-          <p>
-            <alert>Wednesday 12/ (4:15<ndash/>6:45pm)</alert>
-          </p>
-        </li>        
-      </dl>
-    </p>
-  </section>
-  <section xml:id="sec-inst-statements">
-    <title>Academic Integrity</title>
-    <p>
-      Statement about academic integrity
-    </p>
-  </section>
-  <section xml:id="sec-wellness">
-    <title>Wellness</title>
-    <p>
-      Cut and paste the wellness statement here.
-    </p>
   </section>
   <section xml:id="sec-ExtraCredit">
     <title>Extra Credit</title>
@@ -380,6 +326,164 @@
       the project, the preliminary exams and the final exam. There are <em>NO</em> other opportunities to earn credit in
       this course. 
     </p>
+  </section>
+  <section xml:id="sec-schedule">
+    <title>Tentative Schedule of Topics</title>
+    <p>
+      <dl>
+        <li>
+          <title>Week 1</title>
+          <p>
+            2.1, 2.2 and 2.3
+          </p>
+        </li>
+        <li>
+          <title>Week 2</title>
+          <p>
+            2.5 and 2.6
+          </p>
+        </li>
+        <li>
+          <title>Week 3</title>
+          <p>
+            2.7 and 2.8
+          </p>
+        </li>        
+        <li>
+          <title>Week 4</title>
+          <p>
+            3.1 and 3.2. Exam 1 in class (covers chapter 2). 
+          </p>
+        </li>        
+        <li>
+          <title>Week 5</title>
+          <p>
+            3.3 and 3.4. 
+          </p>
+        </li>        
+        <li>
+          <title>Week 6</title>
+          <p>
+            3.5 and 3.6.
+          </p>
+        </li>        
+        <li>
+          <title>Week 7</title>
+          <p>
+            3.9 and 3.10.
+          </p>
+        </li>        
+        <li>
+          <title>Week 8</title>
+          <p>
+            Fall break. 4.1 on day 2. 
+          </p>
+        </li>        
+        <li>
+          <title>Week 9</title>
+          <p>
+            4.2. Exam 2 on day 2 (covers chapter 3).
+          </p>
+        </li>      
+        <li>
+          <title>Week 10</title>
+          <p>
+            4.3 and 4.4.
+          </p>
+        </li>        
+        <li>
+          <title>Week 11</title>
+          <p>
+            4.5 and 4.7.
+          </p>
+        </li>        
+        <li>
+          <title>Week 12</title>
+          <p>
+            5.1. Exam 3 in class 2 (covers chapter 4).
+          </p>
+        </li>        
+        <li>
+          <title>Week 13</title>
+          <p>
+           5.2 and 5.3.
+          </p>
+        </li>        
+        <li>
+          <title>Week 14</title>
+          <p>
+            Thanksgiving!
+          </p>
+        </li>        
+        <li>
+          <title>Week 15</title>
+          <p>
+            5.4 and 5.9.
+          </p>
+        </li>  
+        <li>
+          <title>Final Exam</title>
+          <p>
+            <alert>Wednesday 12/10 (4:15<ndash/>6:45pm, see SIS for room).</alert>
+          </p>
+        </li>        
+      </dl>
+    </p>
+  </section>
+  <section xml:id="sec-Accomodations">
+    <title>Accomodations</title>
+    <p>
+      RIT is committed to providing academic adjustments to students with disabilities. If you would like to
+      request academic adjustments such as testing modifications due to a disability, please contact the Disability
+      Services Office (DSO). Contact information for the DSO and information about how to request adjustments
+      can be found at <url href="https://www.rit.edu/disabilityservices/">https://www.rit.edu/disabilityservices/</url>. After you receive academic adjustment approval, it
+      is imperative that you see me during office hours so that we can work out whatever arrangement is necessary.
+    </p>
+  </section>
+  <section xml:id="sec-inst-statements">
+    <title>Academic Integrity</title>
+    <p>
+      As an institution of higher learning, RIT expects students to behave honestly and ethically at all times,
+      especially when submitting work for evaluation in conjunction with any course or degree requirement. RIT
+      Online encourages all students to become familiar with the RIT Honor Code and with RIT’s Academic
+      Integrity Policy.
+    </p>
+  </section>
+  <section xml:id="sec-wellness">
+    <title>Wellness</title>
+    <p>
+      Mental health issues ebb and flow depending on current life events, and often surface at this time in life as
+      young people encounter new complexities and stresses, sometimes without immediate support for the first
+      time. This can be deeply frightening, or at least confusing. First and foremost, know that you are not alone.
+      If you are feeling overwhelmed, if you experience what seems like depression or anxiety, or if you are feeling
+      victimized in any way, RIT has people to help you. The most effective way to manage these challenges and
+      minimize the effect on your work and personal life, is to recognize and talk about them before they become
+      more intense. Please feel free to let me know if you need assistance connecting to services. For counseling
+      and psychological services, click here:
+      <url href="https://www.rit.edu/studentaffairs/counseling/">https://www.rit.edu/studentaffairs/counseling/</url>
+      During business hours (Monday—Friday, 8:30 am—4:30 pm), you can walk-in (2100 August Center above
+      the Student Health Center), or call (585) 475-2261, or email caps@rit.edu to schedule an appointment.
+      For urgent matters, Counseling and Psychological Services takes walk-ins without an appointment during
+      business hours. For urgent matters that cannot wait for business hours, call 1-855-436-1245 to speak with a
+      mental health provider or call Public Safety at 475-3333.
+    </p>
+  </section>
+
+  <section xml:id="sec-Notes">
+    <title>Notes</title><ul>
+      <li>
+        <p>
+          “If we could learn it all in a weekend we wouldn’t have semesters.”
+        </p>
+      </li>
+      <li>
+        <p>
+          You will be treated as adults in this course. You will not be tracked down to complete missing
+          assignments, it is your job to do you work on time or to make arrangements if special circumstances
+          arise.
+        </p>
+      </li>
+    </ul>
   </section>
   </article>
 </pretext>
