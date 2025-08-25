@@ -176,7 +176,7 @@ the quiz or test.
   <section xml:id="sec-grading">
     <title>Grading</title>
     <p>
-      The grade components and their are all identified above. For quick reference, they are also summarized in the table below.
+      The grade components are all identified above. For quick reference, they are also summarized in the table below.
     </p>
     <tabular>
       <row header="yes" bottom="minor">
@@ -314,7 +314,7 @@ of 181. The remaining 1.5 hours of the exam will be spent on questions specific 
       <title>WebAssign</title>
       <p>
         Homework will be given through WebAssign and will generally be due every Tuesday night at 11:59pm EST. 
-        Each week's assignemnt will cover the sections completed during the previous week of class. 
+        Each week's assignment will cover the sections completed during the previous week of class. 
         If necessary you may extend the due date for each assignment by up to three days, at a 50% penalty.  
       </p>
     </paragraphs>
@@ -365,6 +365,17 @@ of 181. The remaining 1.5 hours of the exam will be spent on questions specific 
       The deadline for all topic quizzes is the last day of classes.
     </p>
   </section>
+
+  <section xml:id="sec-SaturdayMathAcademy">
+    <title>Saturday Math Academy</title>
+    <p> 
+    Saturday Math Academy offers TA-led review of material from the current week. 
+    Get free breakfast, extra help and work on homework with a TA! For more information 
+    and to register in advance go to
+    <url href="https://www.rit.edu/science/saturdaymath">https://www.rit.edu/science/saturdaymath</url>.
+    </p>
+  </section>
+
   <section xml:id="sec-schedule">
     <title>Tentative Schedule of Topics</title>
     <p>
@@ -468,8 +479,8 @@ of 181. The remaining 1.5 hours of the exam will be spent on questions specific 
       </dl>
     </p>
   </section>
-  <section xml:id="sec-Accomodations">
-    <title>Accomodations</title>
+  <section xml:id="sec-Accommodations">
+    <title>Accommodations</title>
     <p>
       RIT is committed to providing academic adjustments to students with disabilities. If you would like to
       request academic adjustments such as testing modifications due to a disability, please contact the Disability
